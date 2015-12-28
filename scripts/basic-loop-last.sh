@@ -1,6 +1,7 @@
 #!/system/bin/mksh
 # Author: Alex Cheung
 # Description: Basic Loop for Event (Last Row) of Mission (Safe)
+# Version: 1.0
 
 
 echo $$ > /storage/sdcard0/mhxrscript/loop.pid;
