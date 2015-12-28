@@ -1,6 +1,6 @@
 #!/system/bin/mksh
 # Author: Alex Cheung
-# Description: Sample Loop (Safe)
+# Description: Basic Loop for Event (Last Row) of Mission (Safe)
 
 
 echo $$ > /storage/sdcard0/mhxrscript/loop.pid;
